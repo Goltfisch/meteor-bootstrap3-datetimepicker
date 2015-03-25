@@ -7,7 +7,7 @@ To install
 ----------
 
 ```sh
-$ meteor add mylez:bootstrap3-datetimepicker
+$ meteor add goltfisch:bootstrap3-datetimepicker
 ```
 
 To use
