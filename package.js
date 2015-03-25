@@ -1,5 +1,5 @@
 Package.describe({
-    name: "goltfisch:bootstrap3-datetimepicker"
+    name: "goltfisch:bootstrap3-datetimepicker",
     summary: "Bootstrap 3 DateTime picker from @Eonasdan, packaged for Meteor.js with rzymek:moment dependency",
     version: "0.1.0",
     git: "https://github.com/Goltfisch/meteor-bootstrap3-datetimepicker"
