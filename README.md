@@ -7,7 +7,7 @@ To install
 ----------
 
 ```sh
-$ meteor add tsega:bootstrap3-datetimepicker
+$ meteor add mylez:bootstrap3-datetimepicker
 ```
 
 To use
@@ -33,4 +33,3 @@ Template.tempName.rendered = function() {
     $('.datetimepicker').datetimepicker();
 }
 ```
-# meteor-bootstrap3-datetimepicker
